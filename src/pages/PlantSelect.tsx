@@ -184,13 +184,12 @@ const styles = StyleSheet.create({
         lineHeight: 20,
         color: colors.heading
     },
-
     enviromentList: {
         height: 40,
-        justifyContent: 'center',
+        justifyContent: 'space-around',
         paddingBottom: 5,
-        marginLeft: 32,
-        marginVertical: 32
+        paddingLeft: 32,
+        marginVertical: 22,
     },
 
     plants: {
